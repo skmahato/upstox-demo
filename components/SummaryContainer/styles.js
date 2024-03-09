@@ -6,7 +6,7 @@ export default StyleSheet.create({
     paddingHorizontal: 20,
   },
   detailsContainer: {
-    marginTop: 10,
+    paddingVertical: 10,
   },
   summaryContainerAlignment: {
     flexDirection: "row",
